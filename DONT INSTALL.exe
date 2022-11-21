@@ -1,0 +1,8 @@
+﻿Console.WriteLine("Drivers Installed                                                                            ");
+
+
+Console.WriteLine("Hello, Didn't i say dont install this?");
+Console.WriteLine("So now, i Installed some drivers on your PC, and i can track you location ;)");
+Console.WriteLine("alright then its either this, you delete this exe or il send you pineapple pizza >:D");
+
+Console.ReadKey();
